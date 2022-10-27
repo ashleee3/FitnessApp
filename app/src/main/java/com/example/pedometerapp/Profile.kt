@@ -11,7 +11,7 @@ class Profile : AppCompatActivity() {
     private lateinit var edtUsername:EditText
     private lateinit var edtAge:EditText
     private lateinit var edtSteps:EditText
-   
+
     private lateinit var btnSubmit:Button
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -23,9 +23,9 @@ class Profile : AppCompatActivity() {
 
 
         btnSubmit.setOnClickListener {
-
             val intent= Intent(this,MainActivity::class.java)
             startActivity(intent)
+
         }
     }
 }

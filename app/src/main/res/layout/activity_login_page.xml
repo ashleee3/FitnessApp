@@ -25,7 +25,7 @@
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
         android:background="@color/purple_200"
-        app:cardCornerRadius="8dp"
+        app:cardCornerRadius="12dp"
         app:cardElevation="5dp">
 
 
@@ -43,9 +43,9 @@
             android:layout_height="wrap_content"
             android:hint="Enter your Email Address"
             android:padding="15dp"
-            android:text="ashley@gmail.com"
             android:layout_margin="8dp"
             android:textSize="20sp"
+
             />
         <EditText
             android:id="@+id/Edt_Password"
@@ -53,7 +53,6 @@
             android:layout_height="wrap_content"
             android:hint="Enter your Password"
             android:padding="15dp"
-            android:text="123456"
             android:layout_margin="8dp"
             android:textSize="20sp"
             android:inputType="textPassword"
