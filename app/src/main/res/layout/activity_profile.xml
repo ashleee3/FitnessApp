@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".Profile">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter your Details Below"
+        android:gravity="center"
+        android:textSize="16sp"/>
+    <EditText
+        android:id="@+id/edt_Username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter your Username"
+        android:padding="16dp"
+        android:layout_margin="10dp"/>
+    <EditText
+        android:id="@+id/edt_Age"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter your Age"
+        android:layout_margin="10dp"
+        android:padding="15dp"/>
+
+    <EditText
+        android:id="@+id/Steps"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter your Target steps"
+        android:layout_margin="10dp"
+        android:padding="16dp"
+
+        />
+
+
+    <Button
+        android:id="@+id/Btn_Submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="16dp"
+        android:text="Submit Details"
+        />
+</LinearLayout>

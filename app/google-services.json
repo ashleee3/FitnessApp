@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "849658459595",
+    "firebase_url": "https://trial1-31f35-default-rtdb.firebaseio.com",
+    "project_id": "trial1-31f35",
+    "storage_bucket": "trial1-31f35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849658459595:android:2687d9972b6aee2021724e",
+        "android_client_info": {
+          "package_name": "com.example.dailyfitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849658459595-l962adi26j5cvv2g6aos3ccabbf9fn5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP01BVjrVY-gXLw8WecLpyejXXaksRnQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849658459595-l962adi26j5cvv2g6aos3ccabbf9fn5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849658459595:android:5ad22e224178af9621724e",
+        "android_client_info": {
+          "package_name": "com.example.layout003"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849658459595-l962adi26j5cvv2g6aos3ccabbf9fn5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP01BVjrVY-gXLw8WecLpyejXXaksRnQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849658459595-l962adi26j5cvv2g6aos3ccabbf9fn5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849658459595:android:ca9e078f3c80cec521724e",
+        "android_client_info": {
+          "package_name": "com.example.pedometerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849658459595-l962adi26j5cvv2g6aos3ccabbf9fn5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP01BVjrVY-gXLw8WecLpyejXXaksRnQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849658459595-l962adi26j5cvv2g6aos3ccabbf9fn5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849658459595:android:2791a8223d5b396721724e",
+        "android_client_info": {
+          "package_name": "com.example.runner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849658459595-61gp39vtjgno06psra3utdfo7lp4qirg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.runner",
+            "certificate_hash": "e2c7d5fe56fe486d6279f28b29d0cbb20570e33b"
+          }
+        },
+        {
+          "client_id": "849658459595-l962adi26j5cvv2g6aos3ccabbf9fn5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP01BVjrVY-gXLw8WecLpyejXXaksRnQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849658459595-l962adi26j5cvv2g6aos3ccabbf9fn5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
